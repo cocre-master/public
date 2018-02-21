@@ -97,5 +97,5 @@
         }
     ],
     "maxHeight": 2.0,
-    "centerHeight": 0.0
+    "centerHeight": 1.0
 }
