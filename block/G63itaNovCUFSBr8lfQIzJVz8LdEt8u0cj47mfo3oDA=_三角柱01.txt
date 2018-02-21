@@ -95,5 +95,7 @@
             "y": -0.5,
             "z": 0.5
         }
-    ]
+    ],
+    "maxHeight": 1.0,
+    "centerHeight": 0.0
 }
