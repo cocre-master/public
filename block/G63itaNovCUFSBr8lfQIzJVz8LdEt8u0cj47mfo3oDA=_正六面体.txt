@@ -156,6 +156,6 @@
             "z": 0.5
         }
     ],
-    "maxHeight": 1.0,
-    "centerHeight": 0.5
+    "maxHeight": 2.0,
+    "centerHeight": 1.0
 }
