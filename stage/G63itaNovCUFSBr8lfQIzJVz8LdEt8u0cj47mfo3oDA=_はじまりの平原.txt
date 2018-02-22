@@ -1,0 +1,953 @@
+{
+    "header": {
+        "author": "test"
+    },
+    "position": "1",
+    "block": [
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 0,
+            "y": 0.0,
+            "z": 0,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 1,
+            "y": 0.0,
+            "z": 0,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 2,
+            "y": 0.0,
+            "z": 0,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 3,
+            "y": 0.0,
+            "z": 0,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 4,
+            "y": 0.0,
+            "z": 0,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 5,
+            "y": 0.0,
+            "z": 0,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 6,
+            "y": 0.0,
+            "z": 0,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 7,
+            "y": 0.0,
+            "z": 0,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 8,
+            "y": 0.0,
+            "z": 0,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 9,
+            "y": 0.0,
+            "z": 0,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 0,
+            "y": 0.0,
+            "z": 1,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 1,
+            "y": 0.0,
+            "z": 1,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 2,
+            "y": 0.0,
+            "z": 1,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 3,
+            "y": 0.0,
+            "z": 1,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 4,
+            "y": 0.0,
+            "z": 1,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 5,
+            "y": 0.0,
+            "z": 1,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 6,
+            "y": 0.0,
+            "z": 1,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 7,
+            "y": 0.0,
+            "z": 1,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 8,
+            "y": 0.0,
+            "z": 1,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 9,
+            "y": 0.0,
+            "z": 1,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 0,
+            "y": 0.0,
+            "z": 2,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 1,
+            "y": 0.0,
+            "z": 2,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 2,
+            "y": 0.0,
+            "z": 2,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 3,
+            "y": 0.0,
+            "z": 2,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 4,
+            "y": 0.0,
+            "z": 2,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 5,
+            "y": 0.0,
+            "z": 2,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 6,
+            "y": 0.0,
+            "z": 2,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 7,
+            "y": 0.0,
+            "z": 2,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 8,
+            "y": 0.0,
+            "z": 2,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 9,
+            "y": 0.0,
+            "z": 2,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 0,
+            "y": 0.0,
+            "z": 3,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 1,
+            "y": 0.0,
+            "z": 3,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 2,
+            "y": 0.0,
+            "z": 3,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 3,
+            "y": 0.0,
+            "z": 3,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 4,
+            "y": 0.0,
+            "z": 3,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 5,
+            "y": 0.0,
+            "z": 3,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 6,
+            "y": 0.0,
+            "z": 3,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 7,
+            "y": 0.0,
+            "z": 3,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 8,
+            "y": 0.0,
+            "z": 3,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 9,
+            "y": 0.0,
+            "z": 3,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 0,
+            "y": 0.0,
+            "z": 4,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 1,
+            "y": 0.0,
+            "z": 4,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 2,
+            "y": 0.0,
+            "z": 4,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 3,
+            "y": 0.0,
+            "z": 4,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 4,
+            "y": 0.0,
+            "z": 4,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 5,
+            "y": 0.0,
+            "z": 4,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 6,
+            "y": 0.0,
+            "z": 4,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 7,
+            "y": 0.0,
+            "z": 4,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 8,
+            "y": 0.0,
+            "z": 4,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 9,
+            "y": 0.0,
+            "z": 4,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 0,
+            "y": 0.0,
+            "z": 5,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 1,
+            "y": 0.0,
+            "z": 5,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 2,
+            "y": 0.0,
+            "z": 5,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 3,
+            "y": 0.0,
+            "z": 5,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 4,
+            "y": 0.0,
+            "z": 5,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 5,
+            "y": 0.0,
+            "z": 5,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 6,
+            "y": 0.0,
+            "z": 5,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 7,
+            "y": 0.0,
+            "z": 5,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 8,
+            "y": 0.0,
+            "z": 5,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 9,
+            "y": 0.0,
+            "z": 5,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 0,
+            "y": 0.0,
+            "z": 6,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 1,
+            "y": 0.0,
+            "z": 6,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 2,
+            "y": 0.0,
+            "z": 6,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 3,
+            "y": 0.0,
+            "z": 6,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 4,
+            "y": 0.0,
+            "z": 6,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 5,
+            "y": 0.0,
+            "z": 6,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 6,
+            "y": 0.0,
+            "z": 6,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 7,
+            "y": 0.0,
+            "z": 6,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 8,
+            "y": 0.0,
+            "z": 6,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 9,
+            "y": 0.0,
+            "z": 6,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 0,
+            "y": 0.0,
+            "z": 7,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 1,
+            "y": 0.0,
+            "z": 7,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 2,
+            "y": 0.0,
+            "z": 7,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 3,
+            "y": 0.0,
+            "z": 7,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 4,
+            "y": 0.0,
+            "z": 7,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 5,
+            "y": 0.0,
+            "z": 7,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 6,
+            "y": 0.0,
+            "z": 7,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 7,
+            "y": 0.0,
+            "z": 7,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 8,
+            "y": 0.0,
+            "z": 7,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 9,
+            "y": 0.0,
+            "z": 7,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 0,
+            "y": 0.0,
+            "z": 8,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 1,
+            "y": 0.0,
+            "z": 8,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 2,
+            "y": 0.0,
+            "z": 8,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 3,
+            "y": 0.0,
+            "z": 8,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 4,
+            "y": 0.0,
+            "z": 8,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 5,
+            "y": 0.0,
+            "z": 8,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 6,
+            "y": 0.0,
+            "z": 8,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 7,
+            "y": 0.0,
+            "z": 8,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 8,
+            "y": 0.0,
+            "z": 8,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 9,
+            "y": 0.0,
+            "z": 8,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 0,
+            "y": 0.0,
+            "z": 9,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 1,
+            "y": 0.0,
+            "z": 9,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 2,
+            "y": 0.0,
+            "z": 9,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 3,
+            "y": 0.0,
+            "z": 9,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 4,
+            "y": 0.0,
+            "z": 9,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 5,
+            "y": 0.0,
+            "z": 9,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 6,
+            "y": 0.0,
+            "z": 9,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 7,
+            "y": 0.0,
+            "z": 9,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 8,
+            "y": 0.0,
+            "z": 9,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 9,
+            "y": 0.0,
+            "z": 9,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/正六面体.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 2,
+            "y": 2.0,
+            "z": 3,
+            "rotation": 180
+        },
+        {
+            "block": "/master-master/block/三角柱01.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 2,
+            "y": 2.0,
+            "z": 2,
+            "rotation": 0
+        },
+        {
+            "block": "/master-master/block/三角柱01.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 3,
+            "y": 2.0,
+            "z": 3,
+            "rotation": 270
+        },
+        {
+            "block": "/master-master/block/三角柱01.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 2,
+            "y": 2.0,
+            "z": 4,
+            "rotation": 180
+        },
+        {
+            "block": "/master-master/block/三角柱01.txt",
+            "texture1": "/master-master/texture/草1.jpg",
+            "texture2": "/master-master/texture/草1.jpg",
+            "x": 1,
+            "y": 2.0,
+            "z": 3,
+            "rotation": 90
+        }
+    ]
+}
