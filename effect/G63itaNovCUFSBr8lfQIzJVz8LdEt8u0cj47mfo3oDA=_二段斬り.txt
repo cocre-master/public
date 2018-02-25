@@ -1,0 +1,577 @@
+{
+    "header": {
+        "author": "test"
+    },
+    "time": 1.0,
+    "size": 1.0,
+    "particle": [
+        {
+            "texture": "/master-master/efimage/丸001.png",
+            "direct": true,
+            "duration": 0.30000001192092898,
+            "startTime": 0.0,
+            "endTime": 0.0,
+            "posx": 0.5,
+            "posy": 1.2000000476837159,
+            "posz": 0.0,
+            "rotx": 0.0,
+            "roty": 0.0,
+            "rotz": 135.0,
+            "number": [
+                {
+                    "rate": 0.0,
+                    "minValue": 200.0,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 200.0,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "periodTime": 0.0,
+            "periodNumber": 0,
+            "lifetime": [
+                {
+                    "rate": 0.0,
+                    "minValue": 0.20000000298023225,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 0.20000000298023225,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "shape": "SingleSidedEdge",
+            "shapeSizeX": 0.0,
+            "shapeSizeY": 1.0,
+            "shapeSizeZ": 1.0,
+            "shapeRandom": false,
+            "cornAngle": 0.0,
+            "cornRadius": 0.0,
+            "cornArc": 0.0,
+            "cornMode": "Random",
+            "cornSpeed": [],
+            "edgeMode": "Loop",
+            "edgeSpeed": [],
+            "speedStart": [
+                {
+                    "rate": 0.0,
+                    "minValue": 8.0,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 8.0,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "vx": [],
+            "vy": [],
+            "vz": [],
+            "sizeStart": [
+                {
+                    "rate": 0.0,
+                    "minValue": 1.5,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 1.5,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                },
+                {
+                    "rate": 1.0,
+                    "minValue": 0.0,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 0.0,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "sizeAlive": [
+                {
+                    "rate": 0.0,
+                    "minValue": 0.0,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 0.0,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                },
+                {
+                    "rate": 0.5,
+                    "minValue": 0.30000001192092898,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 0.30000001192092898,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                },
+                {
+                    "rate": 1.0,
+                    "minValue": 0.0,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 0.0,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "sizeSpeed": [],
+            "sizeSpeedMin": 0.0,
+            "sizeSpeedMax": 0.0,
+            "rotStart": [],
+            "rotAlive": [],
+            "rotSpeed": [],
+            "rotSpeedMin": 0.0,
+            "rotSpeedMax": 0.0,
+            "colorStart": [
+                {
+                    "rate": 0.5,
+                    "minr": 1.0,
+                    "ming": 1.0,
+                    "minb": 1.0,
+                    "mina": 1.0,
+                    "maxr": 1.0,
+                    "maxg": 1.0,
+                    "maxb": 1.0,
+                    "maxa": 1.0
+                }
+            ],
+            "colorAlive": [],
+            "colorSpeed": [],
+            "colorSpeedMin": 0.0,
+            "colorSpeedMax": 0.0,
+            "noise": false,
+            "noiseStrength": 0.0,
+            "noiseSpeed": 0.0,
+            "trail": false,
+            "trailTexture": "",
+            "trailRate": 0.0,
+            "trailtile": false,
+            "trailLifetimeSize": false,
+            "trailLifetime": [],
+            "trailWidthSize": false,
+            "trailWidth": [],
+            "trailColorInherit": false,
+            "trailColor": [],
+            "trailColorLifetime": []
+        },
+        {
+            "texture": "/master-master/efimage/丸001.png",
+            "direct": true,
+            "duration": 0.30000001192092898,
+            "startTime": 0.20000000298023225,
+            "endTime": 0.20000000298023225,
+            "posx": 0.5,
+            "posy": 0.699999988079071,
+            "posz": 0.0,
+            "rotx": 0.0,
+            "roty": 0.0,
+            "rotz": 135.0,
+            "number": [
+                {
+                    "rate": 0.0,
+                    "minValue": 200.0,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 200.0,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "periodTime": 0.0,
+            "periodNumber": 0,
+            "lifetime": [
+                {
+                    "rate": 0.0,
+                    "minValue": 0.20000000298023225,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 0.20000000298023225,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "shape": "SingleSidedEdge",
+            "shapeSizeX": 0.0,
+            "shapeSizeY": 1.0,
+            "shapeSizeZ": 1.0,
+            "shapeRandom": false,
+            "cornAngle": 0.0,
+            "cornRadius": 0.0,
+            "cornArc": 0.0,
+            "cornMode": "Random",
+            "cornSpeed": [],
+            "edgeMode": "Loop",
+            "edgeSpeed": [],
+            "speedStart": [
+                {
+                    "rate": 0.0,
+                    "minValue": 8.0,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 8.0,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "vx": [],
+            "vy": [],
+            "vz": [],
+            "sizeStart": [
+                {
+                    "rate": 0.0,
+                    "minValue": 1.5,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 1.5,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                },
+                {
+                    "rate": 1.0,
+                    "minValue": 0.0,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 0.0,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "sizeAlive": [
+                {
+                    "rate": 0.0,
+                    "minValue": 0.0,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 0.0,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                },
+                {
+                    "rate": 0.5,
+                    "minValue": 0.30000001192092898,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 0.30000001192092898,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                },
+                {
+                    "rate": 1.0,
+                    "minValue": 0.0,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 0.0,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "sizeSpeed": [],
+            "sizeSpeedMin": 0.0,
+            "sizeSpeedMax": 0.0,
+            "rotStart": [],
+            "rotAlive": [],
+            "rotSpeed": [],
+            "rotSpeedMin": 0.0,
+            "rotSpeedMax": 0.0,
+            "colorStart": [
+                {
+                    "rate": 0.5,
+                    "minr": 1.0,
+                    "ming": 1.0,
+                    "minb": 1.0,
+                    "mina": 1.0,
+                    "maxr": 1.0,
+                    "maxg": 1.0,
+                    "maxb": 1.0,
+                    "maxa": 1.0
+                }
+            ],
+            "colorAlive": [],
+            "colorSpeed": [],
+            "colorSpeedMin": 0.0,
+            "colorSpeedMax": 0.0,
+            "noise": false,
+            "noiseStrength": 0.0,
+            "noiseSpeed": 0.0,
+            "trail": false,
+            "trailTexture": "",
+            "trailRate": 0.0,
+            "trailtile": false,
+            "trailLifetimeSize": false,
+            "trailLifetime": [],
+            "trailWidthSize": false,
+            "trailWidth": [],
+            "trailColorInherit": false,
+            "trailColor": [],
+            "trailColorLifetime": []
+        },
+        {
+            "texture": "/master-master/efimage/丸001.png",
+            "direct": true,
+            "duration": 0.20000000298023225,
+            "startTime": 0.10000000149011612,
+            "endTime": 0.10000000149011612,
+            "posx": -0.20000000298023225,
+            "posy": 0.699999988079071,
+            "posz": 0.0,
+            "rotx": 0.0,
+            "roty": 0.0,
+            "rotz": 45.0,
+            "number": [
+                {
+                    "rate": 0.0,
+                    "minValue": 1000.0,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 1000.0,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "periodTime": 0.0,
+            "periodNumber": 0,
+            "lifetime": [
+                {
+                    "rate": 0.0,
+                    "minValue": 0.10000000149011612,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 0.10000000149011612,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "shape": "Sphere",
+            "shapeSizeX": 0.0,
+            "shapeSizeY": 0.10000000149011612,
+            "shapeSizeZ": 1.0,
+            "shapeRandom": false,
+            "cornAngle": 0.0,
+            "cornRadius": 0.0,
+            "cornArc": 0.0,
+            "cornMode": "Random",
+            "cornSpeed": [],
+            "edgeMode": "Loop",
+            "edgeSpeed": [],
+            "speedStart": [
+                {
+                    "rate": 0.0,
+                    "minValue": 3.0,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 3.0,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "vx": [],
+            "vy": [],
+            "vz": [],
+            "sizeStart": [
+                {
+                    "rate": 0.0,
+                    "minValue": 1.5,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 1.5,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                },
+                {
+                    "rate": 1.0,
+                    "minValue": 0.0,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 0.0,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "sizeAlive": [
+                {
+                    "rate": 0.5,
+                    "minValue": 0.10000000149011612,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 0.10000000149011612,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "sizeSpeed": [],
+            "sizeSpeedMin": 0.0,
+            "sizeSpeedMax": 0.0,
+            "rotStart": [],
+            "rotAlive": [],
+            "rotSpeed": [],
+            "rotSpeedMin": 0.0,
+            "rotSpeedMax": 0.0,
+            "colorStart": [
+                {
+                    "rate": 0.5,
+                    "minr": 1.0,
+                    "ming": 1.0,
+                    "minb": 1.0,
+                    "mina": 1.0,
+                    "maxr": 1.0,
+                    "maxg": 1.0,
+                    "maxb": 1.0,
+                    "maxa": 1.0
+                }
+            ],
+            "colorAlive": [],
+            "colorSpeed": [],
+            "colorSpeedMin": 0.0,
+            "colorSpeedMax": 0.0,
+            "noise": false,
+            "noiseStrength": 0.0,
+            "noiseSpeed": 0.0,
+            "trail": false,
+            "trailTexture": "",
+            "trailRate": 0.0,
+            "trailtile": false,
+            "trailLifetimeSize": false,
+            "trailLifetime": [],
+            "trailWidthSize": false,
+            "trailWidth": [],
+            "trailColorInherit": false,
+            "trailColor": [],
+            "trailColorLifetime": []
+        },
+        {
+            "texture": "/master-master/efimage/丸001.png",
+            "direct": true,
+            "duration": 0.20000000298023225,
+            "startTime": 0.4000000059604645,
+            "endTime": 0.4000000059604645,
+            "posx": 0.0,
+            "posy": 0.10000000149011612,
+            "posz": 0.0,
+            "rotx": 0.0,
+            "roty": 0.0,
+            "rotz": 45.0,
+            "number": [
+                {
+                    "rate": 0.0,
+                    "minValue": 1000.0,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 1000.0,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "periodTime": 0.0,
+            "periodNumber": 0,
+            "lifetime": [
+                {
+                    "rate": 0.0,
+                    "minValue": 0.10000000149011612,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 0.10000000149011612,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "shape": "Sphere",
+            "shapeSizeX": 0.0,
+            "shapeSizeY": 0.10000000149011612,
+            "shapeSizeZ": 1.0,
+            "shapeRandom": false,
+            "cornAngle": 0.0,
+            "cornRadius": 0.0,
+            "cornArc": 0.0,
+            "cornMode": "Random",
+            "cornSpeed": [],
+            "edgeMode": "Loop",
+            "edgeSpeed": [],
+            "speedStart": [
+                {
+                    "rate": 0.0,
+                    "minValue": 3.0,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 3.0,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "vx": [],
+            "vy": [],
+            "vz": [],
+            "sizeStart": [
+                {
+                    "rate": 0.0,
+                    "minValue": 1.5,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 1.5,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                },
+                {
+                    "rate": 1.0,
+                    "minValue": 0.0,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 0.0,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "sizeAlive": [
+                {
+                    "rate": 0.5,
+                    "minValue": 0.10000000149011612,
+                    "minInArc": 0.0,
+                    "minOutArc": 0.0,
+                    "maxValue": 0.10000000149011612,
+                    "maxInArc": 0.0,
+                    "maxOutArc": 0.0
+                }
+            ],
+            "sizeSpeed": [],
+            "sizeSpeedMin": 0.0,
+            "sizeSpeedMax": 0.0,
+            "rotStart": [],
+            "rotAlive": [],
+            "rotSpeed": [],
+            "rotSpeedMin": 0.0,
+            "rotSpeedMax": 0.0,
+            "colorStart": [
+                {
+                    "rate": 0.5,
+                    "minr": 1.0,
+                    "ming": 1.0,
+                    "minb": 1.0,
+                    "mina": 1.0,
+                    "maxr": 1.0,
+                    "maxg": 1.0,
+                    "maxb": 1.0,
+                    "maxa": 1.0
+                }
+            ],
+            "colorAlive": [],
+            "colorSpeed": [],
+            "colorSpeedMin": 0.0,
+            "colorSpeedMax": 0.0,
+            "noise": false,
+            "noiseStrength": 0.0,
+            "noiseSpeed": 0.0,
+            "trail": false,
+            "trailTexture": "",
+            "trailRate": 0.0,
+            "trailtile": false,
+            "trailLifetimeSize": false,
+            "trailLifetime": [],
+            "trailWidthSize": false,
+            "trailWidth": [],
+            "trailColorInherit": false,
+            "trailColor": [],
+            "trailColorLifetime": []
+        }
+    ]
+}
