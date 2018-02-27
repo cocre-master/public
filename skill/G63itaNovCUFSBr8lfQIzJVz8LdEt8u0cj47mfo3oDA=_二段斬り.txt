@@ -3,7 +3,7 @@
         "author": "test"
     },
     "motion": "Attack",
-    "effect": "\\public-master/effect\\G63itaNovCUFSBr8lfQIzJVz8LdEt8u0cj47mfo3oDA=_二段斬り.txt",
+    "effect": "/public-master/effect/G63itaNovCUFSBr8lfQIzJVz8LdEt8u0cj47mfo3oDA=_二段斬り.txt",
     "distance": 0,
     "height": 0.0,
     "range": [
