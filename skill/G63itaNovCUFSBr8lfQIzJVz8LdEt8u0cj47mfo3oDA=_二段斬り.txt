@@ -2,6 +2,7 @@
     "header": {
         "author": "test"
     },
+    "desc": "二回斬りつける",
     "motion": "Attack",
     "effect": "/public-master/effect/G63itaNovCUFSBr8lfQIzJVz8LdEt8u0cj47mfo3oDA=_二段斬り.txt",
     "distance": 0,
