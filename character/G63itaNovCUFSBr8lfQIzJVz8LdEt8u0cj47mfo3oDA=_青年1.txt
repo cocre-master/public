@@ -1,0 +1,11 @@
+{
+    "header": {
+        "author": "test"
+    },
+    "desc": "家族を守るため魔物退治をしている青年",
+    "image": "/master-master/charaimage/青年01.png",
+    "type": "Human",
+    "sex": "Male",
+    "general": true,
+    "job": []
+}
