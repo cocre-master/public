@@ -2,7 +2,7 @@
     "header": {
         "author": "test"
     },
-    "position": "1",
+    "position": 1,
     "block": [
         {
             "block": "/master-master/block/正六面体.txt",
