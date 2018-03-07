@@ -1,0 +1,18 @@
+{
+    "header": {
+        "author": "test"
+    },
+    "desc": "さびて使い物にならない剣",
+    "image": "/master-master/itemimage/さびた剣.png",
+    "type": "Weapon",
+    "wepType": "Slash",
+    "wepElem": "None",
+    "atk": 2,
+    "inte": 0,
+    "avoid": 0,
+    "hp": 0,
+    "sp": 0,
+    "spd": 0,
+    "move": 0,
+    "jump": 0
+}
