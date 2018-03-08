@@ -7,7 +7,7 @@
     "type": "Weapon",
     "wepType": "Slash",
     "wepElem": "None",
-    "atk": 2,
+    "atk": 1,
     "inte": 0,
     "avoid": 0,
     "hp": 0,
