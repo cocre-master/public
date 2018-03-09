@@ -1,0 +1,18 @@
+{
+    "header": {
+        "author": "test"
+    },
+    "desc": "さびて使い物にならない槍",
+    "image": "/master-master/itemimage/さびた槍.png",
+    "type": "Weapon",
+    "wepType": "Thrust",
+    "wepElem": "None",
+    "atk": 1,
+    "inte": 0,
+    "avoid": 0,
+    "hp": 0,
+    "sp": 0,
+    "spd": 0,
+    "move": 0,
+    "jump": 0
+}
