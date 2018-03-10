@@ -1,0 +1,18 @@
+{
+    "header": {
+        "author": "test"
+    },
+    "desc": "木で作られた杖\n魔法力は期待できない",
+    "image": "/master-master/itemimage/木の杖.png",
+    "type": "Weapon",
+    "wepType": "Strike",
+    "wepElem": "None",
+    "atk": 0,
+    "inte": 1,
+    "avoid": 0,
+    "hp": 0,
+    "sp": 0,
+    "spd": 0,
+    "move": 0,
+    "jump": 0
+}
