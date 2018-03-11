@@ -1,0 +1,18 @@
+{
+    "header": {
+        "author": "test"
+    },
+    "desc": "今にも朽ちてしまいそうな弓",
+    "image": "/master-master/itemimage/朽ちた弓.png",
+    "type": "Weapon",
+    "wepType": "Shoot",
+    "wepElem": "None",
+    "atk": 1,
+    "inte": 0,
+    "avoid": 0,
+    "hp": 0,
+    "sp": 0,
+    "spd": 0,
+    "move": 0,
+    "jump": 0
+}
