@@ -1,0 +1,18 @@
+{
+    "header": {
+        "author": "test"
+    },
+    "desc": "木製の鍋の蓋\n攻撃を防げるとは思えない",
+    "image": "/master-master/itemimage/木の鍋蓋.png",
+    "type": "Shield",
+    "wepType": "Slash",
+    "wepElem": "None",
+    "atk": 0,
+    "inte": 0,
+    "avoid": 2,
+    "hp": 0,
+    "sp": 0,
+    "spd": 0,
+    "move": 0,
+    "jump": 0
+}
