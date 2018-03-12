@@ -1,0 +1,21 @@
+{
+    "header": {
+        "author": "test"
+    },
+    "desc": "100均に売ってそうな指輪",
+    "image": "/master-master/itemimage/100均の指輪.png",
+    "type": "Guard",
+    "wepType": "Slash",
+    "wepElem": "None",
+    "atk": 0,
+    "inte": 0,
+    "avoidSlash": 0,
+    "avoidThrust": 0,
+    "avoidStrike": 0,
+    "avoidShoot": 0,
+    "hp": 1,
+    "sp": 0,
+    "spd": 1,
+    "move": 0,
+    "jump": 0
+}
