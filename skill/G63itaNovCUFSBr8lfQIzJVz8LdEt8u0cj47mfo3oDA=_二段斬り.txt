@@ -5,19 +5,13 @@
     "desc": "二回斬りつける",
     "motion": "Attack",
     "effect": "/public-master/effect/G63itaNovCUFSBr8lfQIzJVz8LdEt8u0cj47mfo3oDA=_二段斬り.txt",
-    "distance": 0,
-    "height": 0.0,
-    "range": [
-        {
-            "x": 0,
-            "y": 1,
-            "height": 3.0
-        }
-    ],
+    "distance": 1,
+    "height": 3.0,
+    "range": [],
     "type": "Damage",
     "powerBase": "Physics",
     "phyType": "Slash",
-    "power": 15.0,
+    "power": 150.0,
     "element": "None",
     "atk": false,
     "atkValue": 0.0,
