@@ -228,7 +228,7 @@
             "baseInfo": {
                 "texture": "/master-master/efimage/丸001.png",
                 "duration": 0.20399922132492066,
-                "startDelayStart": 0.3044021725654602,
+                "startDelayStart": 0.30440205335617068,
                 "startDelayEnd": 0.0,
                 "lifetime": 0.30000001192092898,
                 "lifetimeMin": [],
@@ -648,7 +648,7 @@
             "baseInfo": {
                 "texture": "/master-master/efimage/丸001.png",
                 "duration": 0.20399922132492066,
-                "startDelayStart": 0.3278178572654724,
+                "startDelayStart": 0.2809866666793823,
                 "startDelayEnd": 0.0,
                 "lifetime": 0.20000000298023225,
                 "lifetimeMin": [],
