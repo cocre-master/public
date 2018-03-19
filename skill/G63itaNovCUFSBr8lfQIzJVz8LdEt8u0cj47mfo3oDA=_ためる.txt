@@ -1,0 +1,20 @@
+{
+    "header": {
+        "author": "test"
+    },
+    "desc": "力を溜めて一時的に攻撃力をアップする",
+    "motion": "Skill",
+    "effect": "/public-master/effect/G63itaNovCUFSBr8lfQIzJVz8LdEt8u0cj47mfo3oDA=_アップ(赤).txt",
+    "distance": 0,
+    "height": 0.0,
+    "range": [],
+    "type": "None",
+    "powerBase": "Physics",
+    "phyType": "Slash",
+    "power": 10.0,
+    "element": "None",
+    "atk": true,
+    "atkValue": 0.20000000298023225,
+    "atkTurn": 3,
+    "atkRate": 1.0
+}
