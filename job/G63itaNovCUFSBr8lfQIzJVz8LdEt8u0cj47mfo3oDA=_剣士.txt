@@ -6,7 +6,8 @@
     "type": "General",
     "skill": [
         "/public-master/skill/G63itaNovCUFSBr8lfQIzJVz8LdEt8u0cj47mfo3oDA=_ためる.txt",
-        "/public-master/skill/G63itaNovCUFSBr8lfQIzJVz8LdEt8u0cj47mfo3oDA=_二段斬り.txt"
+        "/public-master/skill/G63itaNovCUFSBr8lfQIzJVz8LdEt8u0cj47mfo3oDA=_二段斬り.txt",
+        "/public-master/skill/G63itaNovCUFSBr8lfQIzJVz8LdEt8u0cj47mfo3oDA=_一文字斬り.txt"
     ],
     "move": 3,
     "jump": 3,
