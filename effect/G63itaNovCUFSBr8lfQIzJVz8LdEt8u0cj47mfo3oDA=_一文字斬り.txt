@@ -1,0 +1,442 @@
+{
+    "header": {
+        "author": "test"
+    },
+    "time": 1.0,
+    "size": 1.0,
+    "particle": [
+        {
+            "posX": 0.0,
+            "posY": 0.0,
+            "posZ": 0.0,
+            "rotX": 0.0,
+            "rotY": 0.0,
+            "rotZ": 0.0,
+            "baseInfo": {
+                "texture": "/master-master/efimage/丸001.png",
+                "duration": 0.3852076828479767,
+                "startDelayStart": 0.0,
+                "startDelayEnd": 0.0,
+                "lifetime": 0.5,
+                "lifetimeMin": [],
+                "lifetimeMax": [],
+                "renderMode": 0,
+                "cameraScale": 0.0,
+                "speedScale": 0.0,
+                "lengthScale": 1.0
+            },
+            "emission": {
+                "rateOverTime": 100.0,
+                "rateOverTimeMin": [],
+                "rateOverTimeMax": [
+                    {
+                        "rate": 0.0,
+                        "value": 1.0,
+                        "inArc": 0.0,
+                        "outArc": 0.0
+                    }
+                ],
+                "rateOverDistance": 0.0,
+                "rateOverDistanceMin": [],
+                "rateOverDistanceMax": [],
+                "burst": []
+            },
+            "shape": {
+                "shape": 6,
+                "posX": -1.641534447669983,
+                "posY": 0.6146575212478638,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 270.0,
+                "scaleX": 0.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0,
+                "angle": 0.0,
+                "radius": 1.0,
+                "donutRadius": 0.009999999776482582,
+                "radiusThickness": 0.0,
+                "arc": 0.0,
+                "mode": 0,
+                "spread": 0.0,
+                "speed": 0.0,
+                "speedCurve": [],
+                "length": 0.0,
+                "boxX": 0.0,
+                "boxY": 0.0,
+                "boxZ": 0.0,
+                "alignToDirect": false,
+                "randomizeDirect": 0.0,
+                "spherizeDirect": 0.0,
+                "randomizePosition": 0.0
+            },
+            "speed": {
+                "startSpeed": 7.0,
+                "startSpeedMin": [],
+                "startSpeedMax": [],
+                "gravityModifier": 0.0,
+                "gravityModifierMin": [],
+                "gravityModifierMax": [],
+                "velocityX": 0.0,
+                "velocityXMin": [],
+                "velocityXMax": [],
+                "velocityY": 0.0,
+                "velocityYMin": [],
+                "velocityYMax": [],
+                "velocityZ": 0.0,
+                "velocityZMin": [],
+                "velocityZMax": []
+            },
+            "color": {
+                "startColorMin": [],
+                "startColorMax": [],
+                "startColorAlphaMin": [],
+                "startColorAlphaMax": [],
+                "colorOverLifetimeMin": [],
+                "colorOverLifetimeMax": [],
+                "colorOverLifetimeAlphaMin": [],
+                "colorOverLifetimeAlphaMax": [
+                    {
+                        "rate": 0.49172651767730715,
+                        "a": 1.0
+                    },
+                    {
+                        "rate": 1.0,
+                        "a": 0.0
+                    }
+                ],
+                "colorBySpeedMin": [],
+                "colorBySpeedMax": [],
+                "colorBySpeedAlphaMin": [],
+                "colorBySpeedAlphaMax": [],
+                "speedRangeStart": 0.0,
+                "speedRangeEnd": 1.0
+            },
+            "size": {
+                "startSize": 0.5,
+                "startSizeMin": [],
+                "startSizeMax": [
+                    {
+                        "rate": 0.5507336258888245,
+                        "value": 1.0,
+                        "inArc": 0.0,
+                        "outArc": -0.07867604494094849
+                    },
+                    {
+                        "rate": 1.0,
+                        "value": 0.003434300422668457,
+                        "inArc": -0.8816109895706177,
+                        "outArc": 0.0
+                    }
+                ],
+                "sizeOverLifetime": 1.0,
+                "sizeOverLifetimeMin": [],
+                "sizeOverLifetimeMax": [
+                    {
+                        "rate": 0.0,
+                        "value": 0.0034345388412475588,
+                        "inArc": 0.0,
+                        "outArc": 0.0
+                    },
+                    {
+                        "rate": 0.4982829689979553,
+                        "value": 1.0,
+                        "inArc": 0.0,
+                        "outArc": 0.0
+                    },
+                    {
+                        "rate": 1.0,
+                        "value": 0.0034345388412475588,
+                        "inArc": 0.0,
+                        "outArc": 0.0
+                    }
+                ],
+                "sizeBySpeed": 0.0,
+                "sizeBySpeedMin": [],
+                "sizeBySpeedMax": [],
+                "speedRangeStart": 0.0,
+                "speedRangeEnd": 1.0
+            },
+            "rotation": {
+                "startRotation": 0.0,
+                "startRotationMin": [],
+                "startRotationMax": [],
+                "randomizeRotation": 0.0,
+                "rotationOverLifetime": 0.0,
+                "rotationOverLifetimeMin": [],
+                "rotationOverLifetimeMax": [],
+                "rotationBySpeed": 0.0,
+                "rotationBySpeedMin": [],
+                "rotationBySpeedMax": [],
+                "speedRangeStart": 0.0,
+                "speedRangeEnd": 1.0
+            },
+            "noise": {
+                "enable": false,
+                "strength": 1.0,
+                "strengthMin": [],
+                "strengthMax": [],
+                "frequency": 0.5,
+                "scrollSpeed": 1.0,
+                "scrollSpeedMin": [],
+                "scrollSpeedMax": [],
+                "damping": false,
+                "octaves": 1.0,
+                "octaveMultiplier": 0.5,
+                "octaveScale": 1.0,
+                "quality": 2,
+                "positionAmountMin": [],
+                "positionAmountMax": [],
+                "rotationAmountMin": [],
+                "rotationAmountMax": [],
+                "scaleAmountMin": [],
+                "scaleAmountMax": []
+            },
+            "trail": {
+                "enable": false,
+                "texture": "",
+                "ratio": 1.0,
+                "minimumVertexDistance": 0.20000000298023225,
+                "lifetime": 1.0,
+                "lifetimeMin": [],
+                "lifetimeMax": [],
+                "textureMode": 0,
+                "dieWithParticles": true,
+                "sizeAffectsWidth": true,
+                "sizeAffectsLifetime": false,
+                "inheritParticleColor": true,
+                "colorOverLifetimeMin": [],
+                "colorOverLifetimeMax": [],
+                "colorOverLifetimeAlphaMin": [],
+                "colorOverLifetimeAlphaMax": [],
+                "widthOverTrail": 0.0,
+                "widthOverTrailMin": [],
+                "widthOverTrailMax": [],
+                "colorOverTrailMin": [],
+                "colorOverTrailMax": [],
+                "colorOverTrailAlphaMin": [],
+                "colorOverTrailAlphaMax": []
+            }
+        },
+        {
+            "posX": 0.0,
+            "posY": 0.0,
+            "posZ": 0.0,
+            "rotX": 0.0,
+            "rotY": 0.0,
+            "rotZ": 0.0,
+            "baseInfo": {
+                "texture": "/master-master/efimage/丸001.png",
+                "duration": 0.3852076828479767,
+                "startDelayStart": 0.0,
+                "startDelayEnd": 0.0,
+                "lifetime": 0.5,
+                "lifetimeMin": [],
+                "lifetimeMax": [],
+                "renderMode": 0,
+                "cameraScale": 0.0,
+                "speedScale": 0.0,
+                "lengthScale": 1.0
+            },
+            "emission": {
+                "rateOverTime": 100.0,
+                "rateOverTimeMin": [],
+                "rateOverTimeMax": [
+                    {
+                        "rate": 0.0,
+                        "value": 1.0,
+                        "inArc": 0.0,
+                        "outArc": 0.0
+                    }
+                ],
+                "rateOverDistance": 0.0,
+                "rateOverDistanceMin": [],
+                "rateOverDistanceMax": [],
+                "burst": []
+            },
+            "shape": {
+                "shape": 6,
+                "posX": 0.0,
+                "posY": 0.6146575212478638,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 1.0994873046875,
+                "scaleY": 1.0,
+                "scaleZ": 1.0,
+                "angle": 0.0,
+                "radius": 0.009999999776482582,
+                "donutRadius": 0.009999999776482582,
+                "radiusThickness": 0.0,
+                "arc": 0.0,
+                "mode": 1,
+                "spread": 0.0,
+                "speed": 2.799999952316284,
+                "speedCurve": [],
+                "length": 0.0,
+                "boxX": 0.0,
+                "boxY": 0.0,
+                "boxZ": 0.0,
+                "alignToDirect": false,
+                "randomizeDirect": 1.0,
+                "spherizeDirect": 0.0,
+                "randomizePosition": 0.0
+            },
+            "speed": {
+                "startSpeed": 2.0,
+                "startSpeedMin": [],
+                "startSpeedMax": [],
+                "gravityModifier": 0.0,
+                "gravityModifierMin": [],
+                "gravityModifierMax": [],
+                "velocityX": 0.0,
+                "velocityXMin": [],
+                "velocityXMax": [],
+                "velocityY": 0.0,
+                "velocityYMin": [],
+                "velocityYMax": [],
+                "velocityZ": 0.0,
+                "velocityZMin": [],
+                "velocityZMax": []
+            },
+            "color": {
+                "startColorMin": [],
+                "startColorMax": [
+                    {
+                        "rate": 0.0,
+                        "r": 0.7288873195648193,
+                        "g": 0.8506895303726196,
+                        "b": 1.0
+                    }
+                ],
+                "startColorAlphaMin": [],
+                "startColorAlphaMax": [],
+                "colorOverLifetimeMin": [],
+                "colorOverLifetimeMax": [],
+                "colorOverLifetimeAlphaMin": [],
+                "colorOverLifetimeAlphaMax": [
+                    {
+                        "rate": 0.49172651767730715,
+                        "a": 1.0
+                    },
+                    {
+                        "rate": 1.0,
+                        "a": 0.0
+                    }
+                ],
+                "colorBySpeedMin": [],
+                "colorBySpeedMax": [],
+                "colorBySpeedAlphaMin": [],
+                "colorBySpeedAlphaMax": [],
+                "speedRangeStart": 0.0,
+                "speedRangeEnd": 1.0
+            },
+            "size": {
+                "startSize": 0.20000000298023225,
+                "startSizeMin": [],
+                "startSizeMax": [
+                    {
+                        "rate": 0.5507336258888245,
+                        "value": 1.0,
+                        "inArc": 0.0,
+                        "outArc": -0.07867604494094849
+                    },
+                    {
+                        "rate": 1.0,
+                        "value": 0.003434300422668457,
+                        "inArc": -0.8816109895706177,
+                        "outArc": 0.0
+                    }
+                ],
+                "sizeOverLifetime": 1.0,
+                "sizeOverLifetimeMin": [],
+                "sizeOverLifetimeMax": [
+                    {
+                        "rate": 0.0,
+                        "value": 0.0034345388412475588,
+                        "inArc": 0.0,
+                        "outArc": 0.0
+                    },
+                    {
+                        "rate": 0.4982829689979553,
+                        "value": 1.0,
+                        "inArc": 0.0,
+                        "outArc": 0.0
+                    },
+                    {
+                        "rate": 1.0,
+                        "value": 0.0034345388412475588,
+                        "inArc": 0.0,
+                        "outArc": 0.0
+                    }
+                ],
+                "sizeBySpeed": 0.0,
+                "sizeBySpeedMin": [],
+                "sizeBySpeedMax": [],
+                "speedRangeStart": 0.0,
+                "speedRangeEnd": 1.0
+            },
+            "rotation": {
+                "startRotation": 0.0,
+                "startRotationMin": [],
+                "startRotationMax": [],
+                "randomizeRotation": 0.0,
+                "rotationOverLifetime": 0.0,
+                "rotationOverLifetimeMin": [],
+                "rotationOverLifetimeMax": [],
+                "rotationBySpeed": 0.0,
+                "rotationBySpeedMin": [],
+                "rotationBySpeedMax": [],
+                "speedRangeStart": 0.0,
+                "speedRangeEnd": 1.0
+            },
+            "noise": {
+                "enable": false,
+                "strength": 1.0,
+                "strengthMin": [],
+                "strengthMax": [],
+                "frequency": 0.5,
+                "scrollSpeed": 1.0,
+                "scrollSpeedMin": [],
+                "scrollSpeedMax": [],
+                "damping": false,
+                "octaves": 1.0,
+                "octaveMultiplier": 0.5,
+                "octaveScale": 1.0,
+                "quality": 2,
+                "positionAmountMin": [],
+                "positionAmountMax": [],
+                "rotationAmountMin": [],
+                "rotationAmountMax": [],
+                "scaleAmountMin": [],
+                "scaleAmountMax": []
+            },
+            "trail": {
+                "enable": false,
+                "texture": "",
+                "ratio": 1.0,
+                "minimumVertexDistance": 0.20000000298023225,
+                "lifetime": 1.0,
+                "lifetimeMin": [],
+                "lifetimeMax": [],
+                "textureMode": 0,
+                "dieWithParticles": true,
+                "sizeAffectsWidth": true,
+                "sizeAffectsLifetime": false,
+                "inheritParticleColor": true,
+                "colorOverLifetimeMin": [],
+                "colorOverLifetimeMax": [],
+                "colorOverLifetimeAlphaMin": [],
+                "colorOverLifetimeAlphaMax": [],
+                "widthOverTrail": 0.0,
+                "widthOverTrailMin": [],
+                "widthOverTrailMax": [],
+                "colorOverTrailMin": [],
+                "colorOverTrailMax": [],
+                "colorOverTrailAlphaMin": [],
+                "colorOverTrailAlphaMax": []
+            }
+        }
+    ]
+}
